@@ -17,10 +17,14 @@
    <div  align="center"> 
   <div style="display: inline_block">    
     <h1 align="center">Contatos</h1>
-    <a href = "mailto: rafaeloliveira_developer@outlook.com"
+   <a href = "mailto: rafaeloliveira_developer@outlook.com">
    <img align="center" height="40" width="40" alt="outlook-icon"  src="outlook.svg">
-   <img align="center" height="30" width="40" alt="html-icon"  src="HTML.svg">
-   <img align="center" height="30" width="40" alt="CSS-icon"  src="CSS.svg">
+   <a href = "https://www.instagram.com/rafael_developer_oficial/">   
+   <img align="center" height="40" width="40" alt="instagram-icon"  src="instagram.svg">
+   <a href = "https://www.linkedin.com/in/developer-rafael-oliveira/">   
+   <img align="center" height="40" width="40" alt="CSS-icon"  src="linkedin.svg">
    </div>
+   <br>
+   <h2>Obrigado pela visita! ✌️😃</h2>
  
 

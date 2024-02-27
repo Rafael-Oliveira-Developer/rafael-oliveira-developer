@@ -1,7 +1,7 @@
 ## Olá, eu sou Rafael! ✌️😉
 <div>
-   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=rafael-oliveira-developer&rank_icon=github&show_icons=true&bg_color=00000000">
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-oliveira-developer&layout=compact&langs_count=16&bg_color=00000000"/>
+   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=rafael-oliveira-developer&rank_icon=github&show_icons=true&bg_color=00000000&">
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-oliveira-developer&layout=compact&langs_count=6&bg_color=00000000"/>
 </div>
 <div  align="center"> 
   <div style="display: inline_block">    

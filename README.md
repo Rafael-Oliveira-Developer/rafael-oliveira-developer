@@ -19,7 +19,7 @@
     <h1 align="center">Contatos</h1>
    <a href = "mailto: rafaeloliveira_developer@outlook.com">
    <img align="center" height="40" width="40" alt="outlook-icon"  src="outlook.svg">
-   <a href = "https://www.instagram.com/rafael_developer_oficial/">   
+   <a href = "https://www.instagram.com/rafaeloliveira_developer/">   
    <img align="center" height="40" width="40" alt="instagram-icon"  src="instagram.svg">
    <a href = "https://www.linkedin.com/in/developer-rafael-oliveira/">   
    <img align="center" height="40" width="40" alt="CSS-icon"  src="linkedin.svg">
